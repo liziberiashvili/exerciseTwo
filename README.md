@@ -1,6 +1,6 @@
-ExerciseTwo:
+
 პროექტი შექმნილია mvn არქიტექტურული სტილის გამოყენებით,სამუშაო არეალია test/java/org.example.com პაკეტი.
-Description
+Description:
 1)ამოცანა 1 - car კლასი:
 შექმნილია Car კლასი brand,model,year ცვლადებითა და  generateCarInfo() და printCarInfo() მეთოდებით.ცვლადებისთვის მნიშვნელობის მისანიჭებლად გამოყენებულია Faker ბიბლიოთეკა მეთოდებით faker.vehicle().make(),
 faker.vehicle().model() და faker.number().numberBetween().მეთოდების გამოძახება ხდება ამავე კლასის მეინ მეთოდში.
